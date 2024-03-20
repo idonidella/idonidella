@@ -1,4 +1,3 @@
-## *WELCOME*
 <h1 align="center">Hi 👋, I'm Efekan EFE</h1>
 <h3 align="center">A passionate Software Engineer from Turkey/Istanbul</h3>
 
