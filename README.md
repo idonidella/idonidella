@@ -17,5 +17,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idonidella&layout=compact")](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/efekanefe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="efekanefe" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/efekanefe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="100" alt="efekanefe" /></a></p><br><br>
 <br>
